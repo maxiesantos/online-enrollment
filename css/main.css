@@ -1,0 +1,28 @@
+body{
+ 
+}
+
+.register-background{
+    background-image: url("../images/student_PNG85.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.main-section{
+    margin:4rem 0;
+}
+
+.pagsanjan-navbar{
+    border-top: 10px solid #1f2571; 
+}
+
+.contact{
+    
+}
+
+@media (min-width: 992px){
+    
+    .pagsanjan-navbar{
+        height:100px;
+    }
+}
